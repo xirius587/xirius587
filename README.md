@@ -1,4 +1,5 @@
-## Hi there 👋
+#### :raising_hand: I am a college student from South Korea.<br/>
+#### :fire: I aim to become a Mobile Developer.<br/>
 
 <!--
 **xirius587/xirius587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
